@@ -65,5 +65,9 @@ describe("Enter Wanted", ()=>{
             "Killing People.mke.K00000007.Peter Tran.m.a.170.170.black.killer.01012019");
 
     })
+
+
+    //Jira test case link: 
+    //https://dmutah.atlassian.net/secure/RapidBoard.jspa?rapidView=364&projectKey=JNDL&selectedIssue=JNDL-37
     
 })
